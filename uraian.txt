@@ -1,0 +1,15 @@
+1. perangkat elektromekanis yang mengontrol posisi sudut secara presisi melalui motor DC, potensiometer, dan sirkuit kontrol yang menerima sinyal PWM untuk menentukan posisi yang diinginkan dan mengoreksi posisi secara kontinu.
+
+2. LED (Light Emitting Diode) adalah semikonduktor yang memancarkan cahaya ketika arus listrik mengalir melaluinya, dengan warna cahaya tergantung pada bahan semikonduktor yang digunakan.
+
+3. 
+a. kunci pintu otomatis
+b. penyiram tanaman dengan pendeteksi kadar air
+c. monitor denyut nadi
+d. router dan modem untuk internet
+e. robot industri 
+f. pemanfaatan drone
+
+4. project tentang pembuatan kunci berbasis iot dengan cara jarak jauh dengan internet nantinya akan bisa mengunci pintu dari mana saja ketika kelupaan untuk 
+mengunci pintunya, dengan menggunakan alat alat, mulai dari NodeMCU, solenoid, jumper female, modul wifi,
+relay, batrearai rechargeable, kabel listrik dapat membuat kunci berbasis iot.
